@@ -9,7 +9,7 @@
       <td align="center"><a href=""><img src="/src/yjpng.png" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 최연지 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="/src/jm.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 황지현 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="/src/ji.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 이동운</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="/src/gm.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 전찬범<br>vlf5231@naver.com</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/src/gm.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 전찬범</b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
