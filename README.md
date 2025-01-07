@@ -6,10 +6,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="/src/yjpng.png" width="100px;" alt=""/><br /><sub><b>BE 팀장 : 최연지 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="/src/jm.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 황지현 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="/src/ji.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 이동운</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="/src/gm.png" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 전찬범</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/src/yjpng.png" width="100px;" alt=""/><br /><sub><b>BE,FE 팀장 : 최연지 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/src/jm.png" width="100px;" alt=""/><br /><sub><b>BE,FE 팀원 : 황지현 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/src/ji.png" width="100px;" alt=""/><br /><sub><b>BE,FE 팀원 : 이동운</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="/src/gm.png" width="100px;" alt=""/><br /><sub><b>BE,FE 팀원 : 전찬범</b></sub></a><br /></td>
      <tr/>
   </tbody>
 </table>
@@ -68,7 +68,7 @@
 | 2025-01-11          | 카테고리 코드 API 연결   | :x:  |
 | 2025-01-11          | 색상 코드 API 연결  | :x:  |
 
-### :ocean: 권정민
+### :ocean: 황지현
 
 #### -💼 ROLE
 - **역할**: 개발 회의, 코드 리뷰
@@ -84,7 +84,7 @@
 | 2025-01-10          | 테스트 진행          | :x:   |
 | 2025-01-11          | 최종 점검 및 배포    | :x:   |
 
-### :sun_with_face: 임정인
+### :sun_with_face: 이동운
 
 #### -💼 ROLE
 - **역할**: 개발 회의, 코드 리뷰
@@ -100,7 +100,7 @@
 | 2025-01-10          | 테스트 진행          | :x:   |
 | 2025-01-11          | 최종 점검 및 배포    | :x:   |
 
-### :rainbow: 제갈민
+### :rainbow: 전찬범
 
 #### -💼 ROLE
 - **역할**: 개발 회의, 코드 리뷰
@@ -116,38 +116,6 @@
 | 2025-01-10          | 테스트 진행          | :x:   |
 | 2025-01-11          | 최종 점검 및 배포    | :x:   |
 
-### :unicorn: 신해인
-
-#### -💼 ROLE
-- **역할**: 개발 회의, 코드 리뷰
-- **상태**: ⏳ 진행 중
-- **업무 설명**: 개발 회의 진행, 코드 리뷰 작업 완료
-
-
-| 날짜                | 일정 내용            | 체크  |
-|---------------------|----------------------|-------|
-| 2024-12-02 ~ 2025-01 | 개발 회의            |  :white_check_mark:   |
-| 2025-01-08          | 코드 리뷰            | :x:   |
-| 2025-01-09          | 배포 작업            | :x:  |
-| 2025-01-10          | 테스트 진행          | :x:   |
-| 2025-01-11          | 최종 점검 및 배포    | :x:   |
-
-
-### :dog: 서현석
-
-#### -💼 ROLE
-- **역할**: 개발 회의, 코드 리뷰
-- **상태**: ⏳ 진행 중
-- **업무 설명**: 개발 회의 진행, 코드 리뷰 작업 완료
-
-
-| 날짜                | 일정 내용            | 체크  |
-|---------------------|----------------------|-------|
-| 2024-12-02 ~ 2025-01 | 개발 회의            |  :white_check_mark:   |
-| 2025-01-08          | 코드 리뷰            | :x:   |
-| 2025-01-09          | 배포 작업            | :x:  |
-| 2025-01-10          | 테스트 진행          | :x:   |
-| 2025-01-11          | 최종 점검 및 배포    | :x:   |
 
 
 
