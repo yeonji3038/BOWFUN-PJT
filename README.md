@@ -85,7 +85,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 ## 5. 서비스 화면
 
-| ### 로그인 & 회원가입
+### 로그인 & 회원가입
 
 <table>
   <tr>
@@ -98,42 +98,89 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 
 - JWT 기반 인증 시스템 구현
-- 임대인/임차인 구분하여 회원가입 지원
+- 카카로 로그인,회원가입 연동동
 
 --- 
 
-### 임대인 서비스
+### 지도 서비스
 
-### 1. 임대인 대시보드
-| <img src="docs/screenshots/임대인_홈화면.gif" width="200"> |
-|:---:|
-| 임대인 대시보드 |
+### 1. 카카오 MAP 연동
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/map.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
 
-- 월별 수입 통계 및 연체 현황 분석
-- 최근 문의 내역 실시간 확인
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
 
-### 2. 세대 관리
-| <img src="docs/screenshots/임대인_세대관리.gif" width="200"> | <img src="docs/screenshots/임대인_계약코드생성.gif" width="200"> |
-|:---:|:---:|
-| 세대 관리 | 계약코드 발행 |
 
-- 도로명 주소 기준 건물 등록 및 관리
-- 세대별 입주/공실 현황 실시간 확인
-- 카카오 맵 API 활용해해 등록한 건물의 위치 조회
-- 10분간간 유효 계약코드 발행 시스템
+### 상품 서비스
 
-### 3. 임차인 관리
-| <img src="docs/screenshots/임대인_임차인%20관리.gif" width="200"> | <img src="docs/screenshots/임대인_문의.gif" width="200"> | <img src="docs/screenshots/임대인_공지사항.gif" width="200"> |
-|:---:|:---:|:---:|
-| 임차인 관리 | 문의 관리 | 공지사항 전달 |
+### 1. 상품 목록
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/product2.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
 
-- 세입자별 계약 정보 및 월세 납부 이력 관리
-- 유지보수 요청 실시간 확인 및 처리
-- 건물별 공지사항 전달 시스템
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
+
+
+### 2. 상품 상세 페이지
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/product3.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
+
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
+
+### 3. 상품 등록
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/product.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
+
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시  
+
 
 ---
+### 결제 서비스
 
-### 임차인 서비스
+### 1.  결제
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/product2.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
+
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
+  
+---
+
+### 공지사항
 
 ### 1. 임차인 대시보드
 | <img src="docs/screenshots/임차인_홈화면.gif" width="200"> |
