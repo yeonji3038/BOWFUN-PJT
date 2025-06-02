@@ -230,9 +230,5 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 <br/>
 
-## 📝 산출물
 
----
-
-### 1. [PPT](https://gravel-seagull-322.notion.site/1afef7bc762580fbaa03df1df705095b?pvs=4)
 
