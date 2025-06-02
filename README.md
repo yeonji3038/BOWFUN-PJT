@@ -175,7 +175,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 | ![곽희섭](https://avatars.githubusercontent.com/HuiSeopKwak) | ![김유진](https://avatars.githubusercontent.com/zladb) | ![김성민](https://avatars.githubusercontent.com/ssm-kim) | ![김민주](https://avatars.githubusercontent.com/hong00z) | ![이지현](https://avatars.githubusercontent.com/ww42777) | ![최연지](https://avatars.githubusercontent.com/yeonji3038)
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| 곽희섭 ([@HuiSeopKwak](https://github.com/HuiSeopKwak)) | 김유진 ([@zladb](https://github.com/zladb)) | 김성민 ([@ssm-kim](https://github.com/ssm-kim)) | 김민주 ([@hong00z](https://github.com/hong00z)) | 이지현 ([@ww42777](https://github.com/ww42777)) | 최연지 ([@yeonji3038](https://github.com/yeonji3038)) | 
+| 팀장 최연지 ([@HuiSeopKwak](https://github.com/HuiSeopKwak)) | 이동운 ([@zladb](https://github.com/zladb)) | 전찬범 ([@ssm-kim](https://github.com/ssm-kim)) | 황지현 ([@hong00z](https://github.com/hong00z)) | 
 | Leader / Back End | Back End | Infra / Back End | Front End | Front End | Front End |
 
 <br />
