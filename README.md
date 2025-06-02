@@ -176,19 +176,19 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
   <tbody>
     <tr>
       <td align="center">
-        <a href="#"><img src="./코드/yj.png" width="100px;" alt=""/><br />
+        <a href="#"><img src="코드/img/yj.png" width="100px;" alt=""/><br />
         <sub><b>FullStack : 팀장 최연지
       </td>
       <td align="center">
-        <a href="#"><img src="./코드/dw.png" width="100px;" alt=""/><br />
+        <a href="#"><img src="코드/img/dw.png" width="100px;" alt=""/><br />
         <sub><b>FullStack : 이동운
       </td>
       <td align="center">
-        <a href="#"><img src="./코드/cb.png" width="100px;" alt=""/><br />
+        <a href="#"><img src="코드/img/cb.png" width="100px;" alt=""/><br />
         <sub><b>FullStack : 전찬범
       </td>
       <td align="center">
-        <a href="#"><img src="./코드/jh.png" width="100px;" alt=""/><br />
+        <a href="#"><img src="코드/img/jh.png" width="100px;" alt=""/><br />
         <sub><b>FullStack : 황지현
       </td>
     </tr>
