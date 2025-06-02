@@ -77,7 +77,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 <br>
 
-![System Architecture](/docs/System_Architecture.jpg)
+<a href="#"><img src="./코드/ww.png" alt=""/><br />
 
 
 <br>
@@ -202,14 +202,5 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 ---
 
-### 1. [기능 명세서](https://gravel-seagull-322.notion.site/1afef7bc762580fbaa03df1df705095b?pvs=4)
+### 1. [PPT](https://gravel-seagull-322.notion.site/1afef7bc762580fbaa03df1df705095b?pvs=4)
 
-### 2. [와이어 프레임](https://www.figma.com/design/Zf5XDzkeLFFUZUo6hddF9C/%EC%9B%94%EA%B0%84-ZIP?node-id=0-1&p=f&t=TrUvVEuFhH5ZNduj-0)
-
-### 3. [API 명세서](https://gravel-seagull-322.notion.site/API-1b4ef7bc76258019a0a4f6f80af26682?pvs=4)
-
-### 4. [ERD](/docs/erd.png)
-
-### 5. [포팅매뉴얼](/exec/포팅메뉴얼/)
-
-### 6. [최종발표](/exec/월간ZIP_발표.pdf)
