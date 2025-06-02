@@ -163,19 +163,42 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 ### 결제 서비스
 
 ### 1.  결제
-<table항 CRUD - 등록
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/price.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
+
+- KG 이너시스 사용
+  
+---
+### 1. 공지사항 등록
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/notice2.png" width="200"><br/>
+      공지사랑 등록
+    </td>
+  </tr>
+</table>
+
+- 공지사항 CRUD - 등록
 
 ### 2. 공지사항 수정
 <table>
   <tr>
     <td align="center">
       <img src="코드/img/notice.png" width="200"><br/>
-      공지사랑 수정
+      공지사항 수정
     </td>
   </tr>
 </table>
 
 - 공지사항 CRUD - 수정
+
 
 
 ## 6. 개발 팀 소개
