@@ -125,7 +125,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
   <tr>
     <td align="center">
       <img src="코드/img/product2.png" width="200"><br/>
-      MAP
+      목록
     </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
   <tr>
     <td align="center">
       <img src="코드/img/product3.png" width="200"><br/>
-      MAP
+      상세페이지지
     </td>
   </tr>
 </table>
@@ -153,7 +153,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
   <tr>
     <td align="center">
       <img src="코드/img/product.png" width="200"><br/>
-      MAP
+      등록
     </td>
   </tr>
 </table>
@@ -169,7 +169,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 <table>
   <tr>
     <td align="center">
-      <img src="코드/img/product2.png" width="200"><br/>
+      <img src="코드/img/price.png" width="200"><br/>
       MAP
     </td>
   </tr>
@@ -182,46 +182,33 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 ### 공지사항
 
-### 1. 임차인 대시보드
-| <img src="docs/screenshots/임차인_홈화면.gif" width="200"> |
-|:---:|
-| 임차인 대시보드 |
+### 1. 공지사항 등록
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/notice2.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
 
-- 월세 납부 현황 및 공지사항 실시간 확인
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
 
-### 2. 월세 관리 화면
-| <img src="docs/screenshots/월세납부내역.gif" width="200"> |
-|:---:|
-| 월세 관리 화면 |
+### 2. 공지사항 수정
+<table>
+  <tr>
+    <td align="center">
+      <img src="코드/img/notice.png" width="200"><br/>
+      MAP
+    </td>
+  </tr>
+</table>
 
-- 월세 납부 내역 조회
-- 보증금 현황 확인
+- 카카오 맵 연동
+- 마커 클릭 시 커스텀 오버레이 표시
 
-### 3. 월세 납부 화면
-| <img src="docs/screenshots/자동이체.gif" width="200"> | <img src="docs/screenshots/월세직접납부.gif" width="200"> |
-|:---:|:---:|
-| 자동이체 설정 | 월세 직접 결제 |
-
-- 계좌등록과 날짜설정으로 자동이체 등록
-- 자동이체 등록 여부 확인
-
-### 4. 문의 등록
-| <img src="docs/screenshots/문의등록.gif" width="200"> |
-|:---:|
-| 문의 등록 |
-
-- 임차인이 임대인에게 궁금한 점이나 요청사항을 작성하여 전달
-
-
-### 5. 공지사항 조회
-| <img src="docs/screenshots/임차인_공지사항.gif" width="200"> |
-|:---:|
-| 공지사항 조회 |
-
-- 임대인이 해당 건물에 작성한 공지사항 조회
-
-<br>
-<div id="개발-팀-소개"></div>
+---
 
 ## 6. 개발 팀 소개
 
