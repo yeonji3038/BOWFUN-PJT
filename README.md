@@ -77,7 +77,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 
 <br>
 
-<a href="#"><img src="./img/코드/ww.png" alt=""/><br />
+<a href="#"><img src="코드/img/ww.png" alt=""/><br />
 
 
 <br>
