@@ -86,9 +86,9 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 ## 5. 서비스 화면
 
 ### 로그인 & 회원가입
-| <img src="docs/screenshots/로그인.jpg" width="200"> | <img src="docs/screenshots/회원가입.gif" width="200"> |
-|:---:|:---:|
-| 로그인 화면 | 회원가입 화면 |
+| <img src="코드/img/kakako.png width="200"> |
+|:---:|
+| 회원가입 화면 |
 
 - JWT 기반 인증 시스템 구현
 - 임대인/임차인 구분하여 회원가입 지원
