@@ -86,7 +86,7 @@ BOWFUN은 지도 기반 정보 탐색부터 상품 구매 및 결제까지
 ## 5. 서비스 화면
 
 ### 로그인 & 회원가입
-| <img src="코드/img/kakako.png width="200"> |
+| <a href="#"><img src="코드/img/kakako.png width="200"> |
 |:---:|
 | 회원가입 화면 |
 
